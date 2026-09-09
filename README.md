@@ -1,1 +1,2 @@
-# Test Repo\nIni repo latihan pertama saya belajar GitHub.
+# Test Repo
+Ini repo latihan pertama saya belajar GitHub.
